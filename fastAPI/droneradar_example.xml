@@ -1,0 +1,1379 @@
+<Drones>
+<Robin>
+    <Tracks timestamp="2024-07-08T04:14:40.998Z"/>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:41.018Z">
+        <plot id="648" timestamp="2018-03-09T09:52:40.207Z" rcs="-14.80406570">
+            <position latitude="51.94490602" longitude="4.30588227" altitude="3.03260418"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:41.374Z">
+        <plot id="1797" timestamp="2018-03-09T09:52:41.520Z" rcs="-13.56144333">
+            <position latitude="51.94505184" longitude="4.30611280" altitude="3.03035179"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1287" Timestamp="2018-03-09T09:52:40.013Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,53.35,57.85,62.35,66.85]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1288" Timestamp="2018-03-09T09:52:41.326Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1289" Timestamp="2018-03-09T09:52:42.638Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:41.454Z">
+        <plot id="2547" timestamp="2018-03-09T09:52:42.832Z" rcs="-22.71303940">
+            <position latitude="51.94519729" longitude="4.30633443" altitude="3.02822294"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:41.869Z">
+        <plot id="4020" timestamp="2018-03-09T09:52:45.454Z" rcs="-22.78016281">
+            <position latitude="51.94543944" longitude="4.30688834" altitude="3.02408035"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:41.930Z">
+        <plot id="4869" timestamp="2018-03-09T09:52:46.765Z" rcs="-23.74995041">
+            <position latitude="51.94556445" longitude="4.30716139" altitude="3.02212534"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1290" Timestamp="2018-03-09T09:52:43.951Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,48.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1291" Timestamp="2018-03-09T09:52:45.263Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[39.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1292" Timestamp="2018-03-09T09:52:46.576Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[8.34999,39.85,44.35,48.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1293" Timestamp="2018-03-09T09:52:47.888Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[39.85,44.35,48.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:42.005Z">
+        <plot id="5609" timestamp="2018-03-09T09:52:48.079Z" rcs="-16.01869583">
+            <position latitude="51.94574728" longitude="4.30734050" altitude="3.02023047"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <Tracks timestamp="2024-07-08T04:14:42.091Z">
+        <Track id="1">
+            <Timestamp>2018-03-09T09:52:48.079Z</Timestamp>
+            <Position>
+                <Latitude>51.94573248</Latitude>
+                <Longitude>4.30736505</Longitude>
+                <Altitude>3.02023392</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>44.69181061</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>17.69378471</Speed>
+            </Velocity>
+            <Classification>DRONE</Classification>
+            <Reflection>-19.36586761</Reflection>
+            <MedianRCS>-19.36586761</MedianRCS>
+            <CurrentRCS>-16.01869583</CurrentRCS>
+            <Score>0.57238835</Score>
+            <Alarm>true</Alarm>
+        </Track>
+    </Tracks>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:42.354Z">
+        <plot id="6438" timestamp="2018-03-09T09:52:49.391Z" rcs="-10.14233780">
+            <position latitude="51.94588446" longitude="4.30759052" altitude="3.01844845"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1294" Timestamp="2018-03-09T09:52:49.201Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1295" Timestamp="2018-03-09T09:52:50.513Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1296" Timestamp="2018-03-09T09:52:51.826Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:42.459Z">
+        <plot id="7442" timestamp="2018-03-09T09:52:50.701Z" rcs="-11.98987961">
+            <position latitude="51.94601007" longitude="4.30786806" altitude="3.01672462"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:42.521Z">
+        <plot id="8302" timestamp="2018-03-09T09:52:52.012Z" rcs="-19.32989883">
+            <position latitude="51.94613919" longitude="4.30814165" altitude="3.01508095"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:42.832Z">
+        <plot id="9243" timestamp="2018-03-09T09:52:53.324Z" rcs="-17.11798477">
+            <position latitude="51.94629835" longitude="4.30837230" altitude="3.01349102"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:42.916Z">
+        <plot id="10021" timestamp="2018-03-09T09:52:54.637Z" rcs="-20.06662369">
+            <position latitude="51.94645696" longitude="4.30858252" altitude="3.01205035"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1297" Timestamp="2018-03-09T09:52:53.138Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1298" Timestamp="2018-03-09T09:52:54.450Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[44.35,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1299" Timestamp="2018-03-09T09:52:55.762Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:43.031Z">
+        <plot id="10879" timestamp="2018-03-09T09:52:55.946Z" rcs="-18.53705978">
+            <position latitude="51.94657298" longitude="4.30887719" altitude="3.01067101"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:43.260Z">
+        <plot id="11601" timestamp="2018-03-09T09:52:57.257Z" rcs="-20.75728989">
+            <position latitude="51.94671616" longitude="4.30913411" altitude="3.00934901"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:43.394Z">
+        <plot id="12425" timestamp="2018-03-09T09:52:58.568Z" rcs="-11.85448837">
+            <position latitude="51.94686323" longitude="4.30937325" altitude="3.00813905"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <Tracks timestamp="2024-07-08T04:14:43.416Z">
+        <Track id="1">
+            <Timestamp>2018-03-09T09:52:58.568Z</Timestamp>
+            <Position>
+                <Latitude>51.94686119</Latitude>
+                <Longitude>4.30937787</Longitude>
+                <Altitude>3.00813744</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>47.62148285</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>17.89033318</Speed>
+            </Velocity>
+            <Classification>DRONE</Classification>
+            <Reflection>-17.82752228</Reflection>
+            <MedianRCS>-17.82752228</MedianRCS>
+            <CurrentRCS>-11.85448837</CurrentRCS>
+            <Score>0.92822927</Score>
+            <Alarm>true</Alarm>
+        </Track>
+        <Track id="5">
+            <Timestamp>2018-03-09T09:52:55.408Z</Timestamp>
+            <Position>
+                <Latitude>51.94984209</Latitude>
+                <Longitude>4.31741272</Longitude>
+                <Altitude>3.00979080</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>302.15805054</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>6.67277098</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-28.48031998</Reflection>
+            <MedianRCS>-28.48031998</MedianRCS>
+            <CurrentRCS>-36.22224808</CurrentRCS>
+            <Score>0.80263543</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="7">
+            <Timestamp>2018-03-09T09:52:53.396Z</Timestamp>
+            <Position>
+                <Latitude>51.94768626</Latitude>
+                <Longitude>4.30811140</Longitude>
+                <Altitude>3.00871985</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>278.99099731</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>9.57496071</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-35.62731552</Reflection>
+            <MedianRCS>-35.62731552</MedianRCS>
+            <CurrentRCS>-45.18479538</CurrentRCS>
+            <Score>0.74590790</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="8">
+            <Timestamp>2018-03-09T09:52:58.538Z</Timestamp>
+            <Position>
+                <Latitude>51.93529983</Latitude>
+                <Longitude>4.29800853</Longitude>
+                <Altitude>3.26078794</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>141.90222168</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>22.08681488</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-14.24902725</Reflection>
+            <MedianRCS>-14.24902725</MedianRCS>
+            <CurrentRCS>-19.39940262</CurrentRCS>
+            <Score>0.88511574</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="9">
+            <Timestamp>2018-03-09T09:52:57.326Z</Timestamp>
+            <Position>
+                <Latitude>51.94762407</Latitude>
+                <Longitude>4.30851612</Longitude>
+                <Altitude>3.00765900</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>288.91653442</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>10.82402325</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-32.24930954</Reflection>
+            <MedianRCS>-32.24930954</MedianRCS>
+            <CurrentRCS>-46.27718735</CurrentRCS>
+            <Score>0.91234666</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="10">
+            <Timestamp>2018-03-09T09:52:58.575Z</Timestamp>
+            <Position>
+                <Latitude>51.94285911</Latitude>
+                <Longitude>4.30320090</Longitude>
+                <Altitude>3.06883065</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>14.65888405</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>15.26393986</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-21.01985168</Reflection>
+            <MedianRCS>-21.01985168</MedianRCS>
+            <CurrentRCS>-20.64400864</CurrentRCS>
+            <Score>0.92774415</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="11">
+            <Timestamp>2018-03-09T09:52:58.538Z</Timestamp>
+            <Position>
+                <Latitude>51.94324721</Latitude>
+                <Longitude>4.30653637</Longitude>
+                <Altitude>3.04565687</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>26.35062790</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>13.02478600</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-22.30952835</Reflection>
+            <MedianRCS>-22.30952835</MedianRCS>
+            <CurrentRCS>-26.20199203</CurrentRCS>
+            <Score>0.92731118</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="12">
+            <Timestamp>2018-03-09T09:52:54.615Z</Timestamp>
+            <Position>
+                <Latitude>51.93992427</Latitude>
+                <Longitude>4.30194687</Longitude>
+                <Altitude>3.12168767</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>348.03628540</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>16.22564697</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-21.63955688</Reflection>
+            <MedianRCS>-21.63955688</MedianRCS>
+            <CurrentRCS>-24.73873520</CurrentRCS>
+            <Score>0.80380148</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="13">
+            <Timestamp>2018-03-09T09:52:59.532Z</Timestamp>
+            <Position>
+                <Latitude>51.94703083</Latitude>
+                <Longitude>4.31651459</Longitude>
+                <Altitude>3.01019135</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>50.04820633</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>18.68869209</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-23.04813004</Reflection>
+            <MedianRCS>-23.04813004</MedianRCS>
+            <CurrentRCS>-30.60188675</CurrentRCS>
+            <Score>0.87495494</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="17">
+            <Timestamp>2018-03-09T09:52:57.130Z</Timestamp>
+            <Position>
+                <Latitude>51.93537276</Latitude>
+                <Longitude>4.30997655</Longitude>
+                <Altitude>3.18417536</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>73.91305542</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>25.79856682</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-9.39773941</Reflection>
+            <MedianRCS>-9.39773941</MedianRCS>
+            <CurrentRCS>-12.32381821</CurrentRCS>
+            <Score>0.88678491</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="23">
+            <Timestamp>2018-03-09T09:52:58.539Z</Timestamp>
+            <Position>
+                <Latitude>51.94065518</Latitude>
+                <Longitude>4.30365569</Longitude>
+                <Altitude>3.09706967</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>13.39327431</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>14.44843960</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-21.22866440</Reflection>
+            <MedianRCS>-21.22866440</MedianRCS>
+            <CurrentRCS>-25.78791428</CurrentRCS>
+            <Score>0.84525019</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="25">
+            <Timestamp>2018-03-09T09:52:55.700Z</Timestamp>
+            <Position>
+                <Latitude>51.94344458</Latitude>
+                <Longitude>4.31607335</Longitude>
+                <Altitude>3.03556289</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>20.16165352</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>21.03951073</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-30.75121307</Reflection>
+            <MedianRCS>-30.75121307</MedianRCS>
+            <CurrentRCS>-36.82923508</CurrentRCS>
+            <Score>0.72531587</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="26">
+            <Timestamp>2018-03-09T09:52:59.467Z</Timestamp>
+            <Position>
+                <Latitude>51.94865939</Latitude>
+                <Longitude>4.31418772</Longitude>
+                <Altitude>3.00130661</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>222.19404602</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>7.33205795</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-26.42019272</Reflection>
+            <MedianRCS>-26.42019272</MedianRCS>
+            <CurrentRCS>-23.34289169</CurrentRCS>
+            <Score>0.85934436</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="35">
+            <Timestamp>2018-03-09T09:52:58.855Z</Timestamp>
+            <Position>
+                <Latitude>51.95350310</Latitude>
+                <Longitude>4.29952181</Longitude>
+                <Altitude>3.08071880</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>99.75768280</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>8.53104973</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-23.39413071</Reflection>
+            <MedianRCS>-23.39413071</MedianRCS>
+            <CurrentRCS>-28.95030594</CurrentRCS>
+            <Score>0.75675130</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="36">
+            <Timestamp>2018-03-09T09:52:58.815Z</Timestamp>
+            <Position>
+                <Latitude>51.95193551</Latitude>
+                <Longitude>4.29898433</Longitude>
+                <Altitude>3.07482351</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>221.89050293</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>15.04925823</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-21.00199509</Reflection>
+            <MedianRCS>-21.00199509</MedianRCS>
+            <CurrentRCS>-30.58898544</CurrentRCS>
+            <Score>0.76683438</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="38">
+            <Timestamp>2018-03-09T09:52:58.581Z</Timestamp>
+            <Position>
+                <Latitude>51.94249987</Latitude>
+                <Longitude>4.30214684</Longitude>
+                <Altitude>3.08088701</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>2.40272188</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>13.40625858</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-23.00915146</Reflection>
+            <MedianRCS>-23.00915146</MedianRCS>
+            <CurrentRCS>-20.18445969</CurrentRCS>
+            <Score>0.76601118</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="41">
+            <Timestamp>2018-03-09T09:52:58.412Z</Timestamp>
+            <Position>
+                <Latitude>51.94481819</Latitude>
+                <Longitude>4.31274454</Longitude>
+                <Altitude>3.01752528</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>30.16085815</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>14.68603134</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-30.96387863</Reflection>
+            <MedianRCS>-30.96387863</MedianRCS>
+            <CurrentRCS>-30.96387863</CurrentRCS>
+            <Score>0.77324408</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="42">
+            <Timestamp>2018-03-09T09:52:59.368Z</Timestamp>
+            <Position>
+                <Latitude>51.94960116</Latitude>
+                <Longitude>4.31929927</Longitude>
+                <Altitude>3.01775797</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>332.42910767</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>16.00015450</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-35.25642776</Reflection>
+            <MedianRCS>-35.25642776</MedianRCS>
+            <CurrentRCS>-45.73971176</CurrentRCS>
+            <Score>0.72064948</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="45">
+            <Timestamp>2018-03-09T09:52:58.562Z</Timestamp>
+            <Position>
+                <Latitude>51.94513813</Latitude>
+                <Longitude>4.30723706</Longitude>
+                <Altitude>3.02490515</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>271.97760010</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>0.65232551</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-34.87514877</Reflection>
+            <MedianRCS>-34.87514877</MedianRCS>
+            <CurrentRCS>-33.92898941</CurrentRCS>
+            <Score>0.72728717</Score>
+            <Alarm>false</Alarm>
+        </Track>
+    </Tracks>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1300" Timestamp="2018-03-09T09:52:57.075Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,53.35,57.85,62.35,66.85,71.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1301" Timestamp="2018-03-09T09:52:58.387Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1302" Timestamp="2018-03-09T09:52:59.700Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:43.480Z">
+        <plot id="13224" timestamp="2018-03-09T09:52:59.878Z" rcs="-16.05889511">
+            <position latitude="51.94699986" longitude="4.30964163" altitude="3.00699457"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <SystemStatus timestamp="2024-07-08T04:14:43.649Z">
+        <Name>ROBIN_ELVIRA</Name>
+        <Version>23.07.6 (50414, 9ff4c08b41)</Version>
+        <OperationalState>operational</OperationalState>
+        <Messages/>
+        <Sensors>
+            <SensorStatus id="0">
+                <Name>ROBIN_ELVIRA_SEARCH</Name>
+                <Version>23.07.6 (50414, 9ff4c08b41)</Version>
+                <OperationalState>error</OperationalState>
+                <Position>
+                    <Latitude>51.94906200</Latitude>
+                    <Longitude>4.31242510</Longitude>
+                    <Altitude>3.00000000</Altitude>
+                </Position>
+                <Orientation>
+                    <Azimuth>0.00000000</Azimuth>
+                    <Elevation>5.50000000</Elevation>
+                </Orientation>
+                <SensorType>SearchRadar</SensorType>
+                <BlankingSector>
+                    <Angle>0.00000000</Angle>
+                    <Span>0.00000000</Span>
+                </BlankingSector>
+                <Processing/>
+                <Messages>
+                    <Message id="1" timestamp="2024-07-08T04:14:40.183Z" severity="info">Constructing</Message>
+                    <Message id="2" timestamp="2024-07-08T04:14:40.298Z" severity="info">Starting</Message>
+                    <Message id="3" timestamp="2024-07-08T04:14:40.298Z" severity="info">Software (V23.07.6 (50414, 9ff4c08b41)) started</Message>
+                    <Message id="4" timestamp="2024-07-08T04:14:42.445Z" severity="error">Connection Lost</Message>
+                </Messages>
+                <Components>
+                    <Transceiver initialized="false"/>
+                    <Data running="false"/>
+                    <MotorController connected="false" running="false"/>
+                    <Database connected="false"/>
+                    <Sensors ok="false"/>
+                </Components>
+            </SensorStatus>
+        </Sensors>
+    </SystemStatus>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:43.705Z">
+        <plot id="14025" timestamp="2018-03-09T09:53:01.189Z" rcs="-16.81495285">
+            <position latitude="51.94714471" longitude="4.30988015" altitude="3.00596479"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:43.786Z">
+        <plot id="14880" timestamp="2018-03-09T09:53:02.498Z" rcs="-20.07550430">
+            <position latitude="51.94727999" longitude="4.31014106" altitude="3.00501291"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:43.919Z">
+        <plot id="15684" timestamp="2018-03-09T09:53:03.808Z" rcs="-27.88135147">
+            <position latitude="51.94742498" longitude="4.31037652" altitude="3.00415428"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1303" Timestamp="2018-03-09T09:53:01.012Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,48.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1304" Timestamp="2018-03-09T09:53:02.325Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1305" Timestamp="2018-03-09T09:53:03.638Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:44.115Z">
+        <plot id="16514" timestamp="2018-03-09T09:53:05.118Z" rcs="-29.38129807">
+            <position latitude="51.94757105" longitude="4.31060126" altitude="3.00338877"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:44.242Z">
+        <plot id="17258" timestamp="2018-03-09T09:53:06.422Z" rcs="-31.64313126">
+            <position latitude="51.94768839" longitude="4.31088834" altitude="3.00270558"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:44.314Z">
+        <plot id="18028" timestamp="2018-03-09T09:53:07.728Z" rcs="-40.30203629">
+            <position latitude="51.94782728" longitude="4.31113246" altitude="3.00209837"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1306" Timestamp="2018-03-09T09:53:04.950Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,48.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1307" Timestamp="2018-03-09T09:53:06.263Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,48.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1308" Timestamp="2018-03-09T09:53:07.575Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1309" Timestamp="2018-03-09T09:53:08.888Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35,66.85]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:44.568Z">
+        <plot id="19070" timestamp="2018-03-09T09:53:09.035Z" rcs="-43.03402328">
+            <position latitude="51.94796096" longitude="4.31133873" altitude="3.00161371"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <PotentialDronePlots timestamp="2024-07-08T04:14:44.660Z">
+        <plot id="19890" timestamp="2018-03-09T09:53:10.347Z" rcs="-43.84171677">
+            <position latitude="51.94811200" longitude="4.31149642" altitude="3.00119539"/>
+        </plot>
+    </PotentialDronePlots>
+</Robin>
+
+<Robin>
+    <Tracks timestamp="2024-07-08T04:14:44.741Z">
+        <Track id="1">
+            <Timestamp>2018-03-09T09:53:10.347Z</Timestamp>
+            <Position>
+                <Latitude>51.94811039</Latitude>
+                <Longitude>4.31150164</Longitude>
+                <Altitude>3.00119490</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>33.27462006</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>15.13331032</Speed>
+            </Velocity>
+            <Classification>DRONE</Classification>
+            <Reflection>-20.06662369</Reflection>
+            <MedianRCS>-20.06662369</MedianRCS>
+            <CurrentRCS>-43.84171677</CurrentRCS>
+            <Score>0.99017882</Score>
+            <Alarm>true</Alarm>
+        </Track>
+        <Track id="8">
+            <Timestamp>2018-03-09T09:53:02.473Z</Timestamp>
+            <Position>
+                <Latitude>51.93471032</Latitude>
+                <Longitude>4.29852661</Longitude>
+                <Altitude>3.27145466</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>145.19961548</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>20.13202477</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-14.19729233</Reflection>
+            <MedianRCS>-14.19729233</MedianRCS>
+            <CurrentRCS>-7.76667404</CurrentRCS>
+            <Score>0.93953776</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="10">
+            <Timestamp>2018-03-09T09:53:10.406Z</Timestamp>
+            <Position>
+                <Latitude>51.94424380</Latitude>
+                <Longitude>4.30387877</Longitude>
+                <Altitude>3.04955628</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>19.46181107</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>13.31063271</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-22.33415604</Reflection>
+            <MedianRCS>-22.33415604</MedianRCS>
+            <CurrentRCS>-19.70405960</CurrentRCS>
+            <Score>0.95042247</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="11">
+            <Timestamp>2018-03-09T09:53:07.730Z</Timestamp>
+            <Position>
+                <Latitude>51.94417889</Latitude>
+                <Longitude>4.30709231</Longitude>
+                <Altitude>3.03367144</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>25.90807533</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>12.08239174</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-22.78650284</Reflection>
+            <MedianRCS>-22.78650284</MedianRCS>
+            <CurrentRCS>-36.46868515</CurrentRCS>
+            <Score>0.98338127</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="13">
+            <Timestamp>2018-03-09T09:53:02.137Z</Timestamp>
+            <Position>
+                <Latitude>51.94727827</Latitude>
+                <Longitude>4.31709654</Longitude>
+                <Altitude>3.01116032</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>61.07587433</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>18.33274460</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-26.79678726</Reflection>
+            <MedianRCS>-26.79678726</MedianRCS>
+            <CurrentRCS>-43.57721329</CurrentRCS>
+            <Score>0.91642076</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="23">
+            <Timestamp>2018-03-09T09:53:09.040Z</Timestamp>
+            <Position>
+                <Latitude>51.94183337</Latitude>
+                <Longitude>4.30471379</Longitude>
+                <Altitude>3.07273179</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>34.88391495</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>13.71122074</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-23.37628937</Reflection>
+            <MedianRCS>-23.37628937</MedianRCS>
+            <CurrentRCS>-30.26536942</CurrentRCS>
+            <Score>0.93647844</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="26">
+            <Timestamp>2018-03-09T09:53:11.421Z</Timestamp>
+            <Position>
+                <Latitude>51.94790284</Latitude>
+                <Longitude>4.31353406</Longitude>
+                <Altitude>3.00175971</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>199.13534546</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>8.99512768</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-28.05040741</Reflection>
+            <MedianRCS>-28.05040741</MedianRCS>
+            <CurrentRCS>-28.34149551</CurrentRCS>
+            <Score>0.97919089</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="35">
+            <Timestamp>2018-03-09T09:53:10.673Z</Timestamp>
+            <Position>
+                <Latitude>51.95402841</Latitude>
+                <Longitude>4.30006878</Longitude>
+                <Altitude>3.08040753</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>351.95611572</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>4.65651798</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-26.05332565</Reflection>
+            <MedianRCS>-26.05332565</MedianRCS>
+            <CurrentRCS>-25.93258286</CurrentRCS>
+            <Score>0.92926681</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="36">
+            <Timestamp>2018-03-09T09:53:07.982Z</Timestamp>
+            <Position>
+                <Latitude>51.95129188</Latitude>
+                <Longitude>4.29731721</Longitude>
+                <Altitude>3.08923551</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>236.63682556</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>13.76263523</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-20.32006454</Reflection>
+            <MedianRCS>-20.32006454</MedianRCS>
+            <CurrentRCS>-16.94082260</CurrentRCS>
+            <Score>0.88998139</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="38">
+            <Timestamp>2018-03-09T09:53:10.416Z</Timestamp>
+            <Position>
+                <Latitude>51.94397367</Latitude>
+                <Longitude>4.30233803</Longitude>
+                <Altitude>3.06277343</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>349.19262695</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>11.75895023</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-23.23837280</Reflection>
+            <MedianRCS>-23.23837280</MedianRCS>
+            <CurrentRCS>-15.23224258</CurrentRCS>
+            <Score>0.96733510</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="41">
+            <Timestamp>2018-03-09T09:53:07.581Z</Timestamp>
+            <Position>
+                <Latitude>51.94571766</Latitude>
+                <Longitude>4.31319083</Longitude>
+                <Altitude>3.01107716</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>350.00491333</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>8.43120003</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-30.72587585</Reflection>
+            <MedianRCS>-30.72587585</MedianRCS>
+            <CurrentRCS>-47.30636215</CurrentRCS>
+            <Score>0.94541496</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="42">
+            <Timestamp>2018-03-09T09:53:01.979Z</Timestamp>
+            <Position>
+                <Latitude>51.94989049</Latitude>
+                <Longitude>4.31901813</Longitude>
+                <Altitude>3.01674186</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>329.93350220</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>14.99483585</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-35.14236832</Reflection>
+            <MedianRCS>-35.14236832</MedianRCS>
+            <CurrentRCS>-34.20736313</CurrentRCS>
+            <Score>0.74873906</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="45">
+            <Timestamp>2018-03-09T09:53:10.377Z</Timestamp>
+            <Position>
+                <Latitude>51.94518265</Latitude>
+                <Longitude>4.30710211</Longitude>
+                <Altitude>3.02509246</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>308.88101196</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>2.77651763</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-33.92898941</Reflection>
+            <MedianRCS>-33.92898941</MedianRCS>
+            <CurrentRCS>-34.86151505</CurrentRCS>
+            <Score>0.92067742</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="47">
+            <Timestamp>2018-03-09T09:53:11.196Z</Timestamp>
+            <Position>
+                <Latitude>51.94931770</Latitude>
+                <Longitude>4.31977647</Longitude>
+                <Altitude>3.02004980</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>71.39464569</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>10.05552292</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-35.64176559</Reflection>
+            <MedianRCS>-35.64176559</MedianRCS>
+            <CurrentRCS>-40.09981155</CurrentRCS>
+            <Score>0.90549415</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="49">
+            <Timestamp>2018-03-09T09:53:10.370Z</Timestamp>
+            <Position>
+                <Latitude>51.93697066</Latitude>
+                <Longitude>4.29659548</Longitude>
+                <Altitude>3.23465213</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>177.92721558</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>23.67454147</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-18.53513718</Reflection>
+            <MedianRCS>-18.53513718</MedianRCS>
+            <CurrentRCS>-18.92997360</CurrentRCS>
+            <Score>0.84095675</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="50">
+            <Timestamp>2018-03-09T09:53:10.395Z</Timestamp>
+            <Position>
+                <Latitude>51.94493018</Latitude>
+                <Longitude>4.30577805</Longitude>
+                <Altitude>3.03291822</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>118.54299164</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>8.24755573</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-27.07172775</Reflection>
+            <MedianRCS>-27.07172775</MedianRCS>
+            <CurrentRCS>-31.49959946</CurrentRCS>
+            <Score>0.92486882</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="51">
+            <Timestamp>2018-03-09T09:53:03.700Z</Timestamp>
+            <Position>
+                <Latitude>51.93555240</Latitude>
+                <Longitude>4.30980762</Longitude>
+                <Altitude>3.17974774</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>111.80088043</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>12.23835850</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-18.22825241</Reflection>
+            <MedianRCS>-18.22825241</MedianRCS>
+            <CurrentRCS>-18.95508194</CurrentRCS>
+            <Score>0.84572953</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="52">
+            <Timestamp>2018-03-09T09:53:11.311Z</Timestamp>
+            <Position>
+                <Latitude>51.94707151</Latitude>
+                <Longitude>4.31830966</Longitude>
+                <Altitude>3.01665413</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>137.03332520</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>7.65666199</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-33.93198013</Reflection>
+            <MedianRCS>-33.93198013</MedianRCS>
+            <CurrentRCS>-29.68954849</CurrentRCS>
+            <Score>0.93676358</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="57">
+            <Timestamp>2018-03-09T09:53:02.550Z</Timestamp>
+            <Position>
+                <Latitude>51.94500269</Latitude>
+                <Longitude>4.30396070</Longitude>
+                <Altitude>3.04249881</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>224.82681274</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>4.79999542</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-26.86599731</Reflection>
+            <MedianRCS>-26.86599731</MedianRCS>
+            <CurrentRCS>-21.38586044</CurrentRCS>
+            <Score>0.70404804</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="58">
+            <Timestamp>2018-03-09T09:53:02.890Z</Timestamp>
+            <Position>
+                <Latitude>51.96159848</Latitude>
+                <Longitude>4.29962475</Longitude>
+                <Altitude>3.21318149</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>0.14141878</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>21.95575333</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-19.40559006</Reflection>
+            <MedianRCS>-19.40559006</MedianRCS>
+            <CurrentRCS>-21.33435440</CurrentRCS>
+            <Score>0.72556245</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="60">
+            <Timestamp>2018-03-09T09:53:05.434Z</Timestamp>
+            <Position>
+                <Latitude>51.95325045</Latitude>
+                <Longitude>4.30229988</Longitude>
+                <Altitude>3.05494501</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>0.95248312</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>9.98116302</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-24.73870468</Reflection>
+            <MedianRCS>-24.73870468</MedianRCS>
+            <CurrentRCS>-32.99185562</CurrentRCS>
+            <Score>0.82920581</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="61">
+            <Timestamp>2018-03-09T09:53:10.541Z</Timestamp>
+            <Position>
+                <Latitude>51.94861567</Latitude>
+                <Longitude>4.30328823</Longitude>
+                <Altitude>3.03106767</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>328.40341187</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>9.78011131</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-31.22042084</Reflection>
+            <MedianRCS>-31.22042084</MedianRCS>
+            <CurrentRCS>-27.29813004</CurrentRCS>
+            <Score>0.85660803</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="62">
+            <Timestamp>2018-03-09T09:53:11.333Z</Timestamp>
+            <Position>
+                <Latitude>51.94810120</Latitude>
+                <Longitude>4.31466684</Longitude>
+                <Altitude>3.00275513</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>207.87294006</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>15.86572838</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-30.61520386</Reflection>
+            <MedianRCS>-30.61520386</MedianRCS>
+            <CurrentRCS>-24.44536209</CurrentRCS>
+            <Score>0.88677949</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="67">
+            <Timestamp>2018-03-09T09:53:10.705Z</Timestamp>
+            <Position>
+                <Latitude>51.94994336</Latitude>
+                <Longitude>4.31076629</Longitude>
+                <Altitude>3.00177209</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>263.00317383</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>8.27470398</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-24.99116135</Reflection>
+            <MedianRCS>-24.99116135</MedianRCS>
+            <CurrentRCS>-26.84524918</CurrentRCS>
+            <Score>0.85523975</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="69">
+            <Timestamp>2018-03-09T09:53:10.644Z</Timestamp>
+            <Position>
+                <Latitude>51.95448297</Latitude>
+                <Longitude>4.29250562</Longitude>
+                <Altitude>3.17525706</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>77.19076538</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>8.81349087</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-14.84469223</Reflection>
+            <MedianRCS>-14.84469223</MedianRCS>
+            <CurrentRCS>-15.78760910</CurrentRCS>
+            <Score>0.85042095</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="71">
+            <Timestamp>2018-03-09T09:53:10.436Z</Timestamp>
+            <Position>
+                <Latitude>51.94750362</Latitude>
+                <Longitude>4.30869149</Longitude>
+                <Altitude>3.00751375</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>64.79510498</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>12.67799091</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-34.62523651</Reflection>
+            <MedianRCS>-34.62523651</MedianRCS>
+            <CurrentRCS>-42.06206894</CurrentRCS>
+            <Score>0.82170564</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="72">
+            <Timestamp>2018-03-09T09:53:10.715Z</Timestamp>
+            <Position>
+                <Latitude>51.95454048</Latitude>
+                <Longitude>4.30292536</Longitude>
+                <Altitude>3.06251368</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>200.73130798</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>7.58201647</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-19.46413040</Reflection>
+            <MedianRCS>-19.46413040</MedianRCS>
+            <CurrentRCS>-22.79541397</CurrentRCS>
+            <Score>0.85097843</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="73">
+            <Timestamp>2018-03-09T09:53:08.572Z</Timestamp>
+            <Position>
+                <Latitude>51.94930663</Latitude>
+                <Longitude>4.32028151</Longitude>
+                <Altitude>3.02288485</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>93.51984406</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>9.67402458</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-36.54502106</Reflection>
+            <MedianRCS>-36.54502106</MedianRCS>
+            <CurrentRCS>-40.00004959</CurrentRCS>
+            <Score>0.72583562</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="76">
+            <Timestamp>2018-03-09T09:53:10.680Z</Timestamp>
+            <Position>
+                <Latitude>51.96300872</Latitude>
+                <Longitude>4.27942298</Longitude>
+                <Altitude>3.59153092</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>37.26384354</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>20.14719963</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-2.31596375</Reflection>
+            <MedianRCS>-2.31596375</MedianRCS>
+            <CurrentRCS>-4.19477463</CurrentRCS>
+            <Score>0.70954549</Score>
+            <Alarm>false</Alarm>
+        </Track>
+        <Track id="81">
+            <Timestamp>2018-03-09T09:53:10.367Z</Timestamp>
+            <Position>
+                <Latitude>51.94463330</Latitude>
+                <Longitude>4.30711066</Longitude>
+                <Altitude>3.02949046</Altitude>
+            </Position>
+            <Velocity>
+                <Azimuth>138.58717346</Azimuth>
+                <Elevation>0.00000000</Elevation>
+                <Speed>12.45933628</Speed>
+            </Velocity>
+            <Classification>OTHER</Classification>
+            <Reflection>-24.75958252</Reflection>
+            <MedianRCS>-24.75958252</MedianRCS>
+            <CurrentRCS>-20.59328842</CurrentRCS>
+            <Score>0.71885818</Score>
+            <Alarm>false</Alarm>
+        </Track>
+    </Tracks>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1310" Timestamp="2018-03-09T09:53:10.200Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1311" Timestamp="2018-03-09T09:53:11.513Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1312" Timestamp="2018-03-09T09:53:12.825Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1313" Timestamp="2018-03-09T09:53:14.138Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,39.85,44.35,48.85,53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <RadarImageMeta RadarId="0" ImageId="1314" Timestamp="2018-03-09T09:53:15.450Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[35.35,44.35,48.85,53.35,57.85,62.35,66.85]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1315" Timestamp="2018-03-09T09:53:16.763Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[48.85,53.35,57.85,62.35,66.85]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+    <RadarImageMeta RadarId="0" ImageId="1316" Timestamp="2018-03-09T09:53:18.075Z" LineResolution="4.50">
+        <LineClassifications>
+            <Lines Type="Clipped">[53.35,57.85,62.35]</Lines>
+        </LineClassifications>
+    </RadarImageMeta>
+</Robin>
+
+<Robin>
+    <Tracks timestamp="2024-07-08T04:14:45.574Z"/>
+</Robin>
+</Drones>
